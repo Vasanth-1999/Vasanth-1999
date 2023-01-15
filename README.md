@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Vasanth-1999
+- 👋 Hi, I’m @ Vasanth M S
 - 👀 I’m interested in improve my skills in software technologies.
-- 🌱 I’m currently learning PG Program "Data Science".
+- 🌱 I’m currently learning PG Program "Data Analytics and Data Science".
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by github,linkedin profile. 
 
