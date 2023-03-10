@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ Vasanth M S
-- 👀 I’m interested in improve my skills in software technologies.
+- 👀 I’m interested to improve my skills in software technologies.
 - 🌱 I’m currently learning PG Program "Data Analytics and Data Science".
 - 💞️ I’m looking to collaborate as Data Analyst.
 - 📫 How to reach me by github,linkedin profile. 
